@@ -13,7 +13,7 @@
 - ⚡ Fun fact: **I not only like cheating, I also like writing anti-cheat plugins.**
 
 <br />
-<div align="center>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=kotlin" />
     <p>Yes, only Kotlin, no Java or other languages :P</p>
 </div>
